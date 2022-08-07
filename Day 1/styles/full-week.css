@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+  font-family: "Oswald", sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+
+  color: rgb(71, 62, 62);
+}
+
+/* #description {
+  color: rgb(14, 88, 73);
+} */
+
+header p {
+  color: rgb(110, 7, 109);
+}
+
+a {
+  background-color: rgb(167, 1, 78);
+  padding: 5px;
+  color: white;
+  border: 3px solid rgb(29, 75, 48);
+  border-radius: 4px;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 25px auto;
+  font-family: "Fira Sans", Courier, monospace;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 15px;
+}
+a:hover {
+  text-decoration: none;
+  background-color: rgb(180, 12, 90);
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 20px auto 0 auto;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
+  margin: 12px;
+  padding: 10px;
+  box-shadow: 2px 2px 6px rgba (0, 0, 0, 0.5);
+}
+
+h2 {
+  color: rgb(78, 13, 5);
+  font-family: "Oswald";
+}
+
+/* main p {
+  margin: 12px;
+  color: rgb(71, 29, 22);
+} */
+
+.daily-goal {
+  margin: 10px;
+  color: rgb(180, 12, 90);
+}
+
+.highlight-goal {
+  background-color: rgb(220, 234, 61);
+  border: 2px solid black;
+}

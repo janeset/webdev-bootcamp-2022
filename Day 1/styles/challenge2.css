@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+  font-family: "Oswald", sans-serif;
+}
+
+img {
+  width: 200px;
+  border-radius: 100px;
+  border: 5px solid black;
+}
+
+ol {
+  background-color: rgb(223, 136, 124);
+  list-style: none;
+  width: 500px;
+  padding: 100px;
+  margin: -100px auto 0 auto;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+li {
+  margin: 30px;
+}
+
+#title-challenge {
+  font-size: large;
+  font-family: "Oswald";
+}
+
+#my-goal {
+  font-size: xx-large;
+  font-family: "Fira Sans";
+  font-weight: bold;
+  color: rgb(55, 49, 49);
+}
+
+p {
+  margin-top: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(78, 13, 5);
+}
+
+li span {
+  color: rgb(66, 2, 2);
+}
